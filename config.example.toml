@@ -1,0 +1,4 @@
+server = "dc.example.com"
+user = "user@dc.example.com"
+password = "secret"
+base = "dc=example,dc=com"
